@@ -1,5 +1,8 @@
 # Handy Global Utilities
 
+```
+--globals
+
  ├── fd@0.0.3
  ├── gtop@1.0.2
  ├── npm@6.13.4
@@ -9,3 +12,5 @@
  ├── typescript@3.8.3
  └── vtop@0.6.1
 
+--
+```
